@@ -16,6 +16,7 @@ namespace msTestBusCompany
         }
 
         //tests 1km
+        //hotfix stuff
         [TestMethod]
         public void DistanceShortTest2()
         {
