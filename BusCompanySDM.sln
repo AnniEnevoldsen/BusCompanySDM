@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusCompanySDM", "BusCompanySDM\BusCompanySDM.csproj", "{6BA113B5-1211-4740-A17E-274E7F0ED248}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msTestBusCompany", "msTestBusCompany\msTestBusCompany.csproj", "{D3A89166-FB63-4D20-AB8E-9E1007750CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6BA113B5-1211-4740-A17E-274E7F0ED248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BA113B5-1211-4740-A17E-274E7F0ED248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BA113B5-1211-4740-A17E-274E7F0ED248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A89166-FB63-4D20-AB8E-9E1007750CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A89166-FB63-4D20-AB8E-9E1007750CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A89166-FB63-4D20-AB8E-9E1007750CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A89166-FB63-4D20-AB8E-9E1007750CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

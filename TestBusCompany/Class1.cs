@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BusCompanySDM
+namespace TestBusCompany
 {
     public class Class1
     {
