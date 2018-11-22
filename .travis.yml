@@ -7,4 +7,4 @@ install:
 
 script:
 - dotnet build
-- dotnet test BusCompanySDM/TestBusCompanyXUNIT.csproj
+- dotnet test TestBusCompanyXUNIT/TestBusCompanyXUNIT.csproj
