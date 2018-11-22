@@ -4,4 +4,4 @@ dotnet: 2.1
 
 script:
 - dotnet build
-- dotnet test BusCompanySDM/TestBusCompanyXUNIT
+- dotnet test BusCompanySDM/TestBusCompanyXUNIT.csproj
