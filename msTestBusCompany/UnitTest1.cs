@@ -76,8 +76,9 @@ namespace msTestBusCompany
             IBusCompany bus = new BusCompany();
             var km = 100;
             var ppl = 100;
+            var initprice = 130;
             var priceprkm = 3;
-            Assert.IsTrue(bus.TotalCost(ppl, km) == 130 + km * priceprkm);
+            Assert.IsTrue(bus.TotalCost(ppl, km) == initprice + km * priceprkm);
         }
     }
 }
