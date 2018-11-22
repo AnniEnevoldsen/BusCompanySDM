@@ -6,6 +6,7 @@ namespace BusCompanySDM
 {
     public class BusCompany : IBusCompany
     {
+        
         /**
          * Initial price is 130. 
          * if km is smaller than 100, or between 100 and 500 or above 500

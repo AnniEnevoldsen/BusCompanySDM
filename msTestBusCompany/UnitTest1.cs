@@ -68,5 +68,16 @@ namespace msTestBusCompany
             var priceprkm = 2.25;
             Assert.IsTrue(bus.TotalCost(ppl, km) == 130 + km * priceprkm);
         }
+
+        //tests 100 km 100ppl
+        [TestMethod]
+        public void AnotherTestForTravis()
+        {
+            IBusCompany bus = new BusCompany();
+            var km = 100;
+            var ppl = 100;
+            var priceprkm = 3;
+            Assert.IsTrue(bus.TotalCost(ppl, km) == 130 + km * priceprkm);
+        }
     }
 }
